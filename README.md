@@ -9,6 +9,7 @@ Learning React and ES6 by building a Movie Discovery App.
 - [ ] Search
 - [ ] Detail
 
+
 ## Available Scripts
 
 In the project directory, you can run:
